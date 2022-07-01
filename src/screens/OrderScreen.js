@@ -50,7 +50,7 @@ const OrderScreen = ({ match, history }) => {
       history.push("/login")
     }
     const addPaypalScript = async () => {
-      const { data: clientId } = await axios.get("/api/config/paypal")
+      const { data: clientId } = await axios.get("https://proshop69.herokuapp.com/api/config/paypal")
       const script = document.createElement("script")
       script.type = "text/javascript"
       script.src = `https://www.paypal.com/sdk/js?client-id=${clientId}`
