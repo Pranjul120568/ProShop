@@ -16,7 +16,7 @@ NOTE: Please read the RUN section before opening an issue.
 
 ## Demo
 
-![screenshot](screenshot.png)
+![screenshot](Screenshot 2023-01-09 at 12.40.49 PM.jpg)
 
 The application is deployed to Heroku and Netlify and can be accessed through the following link:
 
