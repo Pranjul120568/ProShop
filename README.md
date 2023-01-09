@@ -14,9 +14,10 @@ A virtual ecommerce website using Node js, Express js, and Mongoose.
 
 NOTE: Please read the RUN section before opening an issue.
 
-## Demo
+## Screenshot
 
-![screenshot](Screenshot 2023-01-09 at 12.40.49 PM.jpg)
+<img src="Screenshot 2023-01-09 at 12.40.49 PM.jpg" width="500" height="220"/>
+
 
 The application is deployed to Heroku and Netlify and can be accessed through the following link:
 
