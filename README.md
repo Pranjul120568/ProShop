@@ -55,8 +55,6 @@ The application is built with:
 - Express version 4.16.1
 - Bootstrap version 4.4.1
 - FontAwesome version 5.13.0
-- Stripe API v3: used for payment in the checkout page
-- Mapbox API: used to show the map in the about us page
 - AdminBro: used and customized to implement the admin panel
 - Nodemailer: used to send emails from the contact us form
 - Passport: used for authentication
