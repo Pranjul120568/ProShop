@@ -16,7 +16,13 @@ NOTE: Please read the RUN section before opening an issue.
 
 ## Screenshot
 
-<img src="Screenshot 2023-01-09 at 12.40.49 PM.png" width="900" height="420"/>
+<img src="screenshot/ss.png" width="900" height="420"/>
+<img src="screenshot/ss1.png" width="900" height="420"/>
+<img src="screenshot/ss2.png" width="900" height="420"/>
+<img src="screenshot/ss3.png" width="900" height="420"/>
+<img src="screenshot/ss4.png" width="900" height="420"/>
+
+
 
 
 The application is deployed to Heroku and Netlify and can be accessed through the following link:
